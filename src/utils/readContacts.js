@@ -10,6 +10,3 @@ export const readContacts = async () => {
     return [];
   }
 };
-
-// const test = await readContacts();
-// console.log(test);
